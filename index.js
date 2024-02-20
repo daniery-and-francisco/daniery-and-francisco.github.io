@@ -17,7 +17,7 @@
             
           //do something later when date is reached
           if (distance <= 0) {
-            document.getElementById("headline").innerText = "Es hora de la Ceremonia!";
+            document.getElementById("headline").innerText = "¡Llegó la hora esperada!";
             document.getElementById("countdown").style.display = "none";
             document.getElementById("content").style.display = "block";
             clearInterval(x);
