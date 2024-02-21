@@ -6,7 +6,7 @@
   
     //I'm adding this section so I don't have to keep updating this pen every year :-)
     //remove this if you don't need it
-    let ceremony = "04/20/2023 16:00:00";
+    let ceremony = "04/20/2024 16:00:00";
     
     const countDown = new Date(ceremony).getTime(),
         x = setInterval(function() {    
